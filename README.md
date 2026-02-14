@@ -1,106 +1,130 @@
+---
+
+# 🌐 Connect With Me
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Farouq%20Shaheen&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<a href="https://www.linkedin.com/in/hasan-almnla-14b3b43a6" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hasanalmnla2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hasanAlmnla" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/3ji._u" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=220&section=header&text=hasanAlmnla&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=950&height=150&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Red+Team+Junior+%7C+Offensive+Security;Game+Developer+%F0%9F%8E%AE+%7C+Unity+%26+C%23;Ethical+Hacking+%26+Penetration+Testing;Code+Logic+%7C+Exploits+%7C+Game+Mechanics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=950&height=160&lines=Software+Engineer+%7C+Creative+Developer;Flutter+%26+Frontend+Specialist;AI+%26+Data+Explorer;Designing+Smart+Digital+Experiences;Code.+Design.+Intelligence.)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=farouqshaheen&color=blueviolet&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/farouqshaheen?label=Followers&style=for-the-badge&color=blue)](https://github.com/farouqshaheen)
-[![GitHub stars](https://img.shields.io/github/stars/farouqshaheen?label=Stars&style=for-the-badge&color=yellow)](https://github.com/farouqshaheen)
+![Profile Views](https://komarev.com/ghpvc/?username=hasanAlmnla&color=0e75b6&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/hasanAlmnla?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/hasanAlmnla)
+[![GitHub stars](https://img.shields.io/github/stars/hasanAlmnla?label=Stars&style=for-the-badge&color=FFD700)](https://github.com/hasanAlmnla)
 
 </div>
 
 ---
 
-## 👨‍💻 **Current Focus**
+# 👨‍💻 About Me
 
-- 🟥 **Cyber Security – Red Team (Junior / Trainee)**
-- 🎯 Offensive Security, Penetration Testing & Ethical Hacking
-- 🎮 **Game Developer (Unity & C#)** – Gameplay Mechanics, Systems & Logic
-- 🧠 Strong analytical mindset from both **security** and **game development**
+🎓 Software Engineering Student  
+🚀 Passionate about building **high-performance applications**  
+📱 Specialized in **Flutter & Modern Frontend Development**  
+🤖 Exploring **Artificial Intelligence & Data Systems**  
+🎨 Blending clean UI with strong engineering logic  
+
+I believe great software is built where **creativity meets structure**.
 
 ---
 
-## 🛠️ **Core Skills**
+# 🧠 Technical Core
 
-### 🔐 Cyber Security | Red Team
+## 📱 Mobile & Frontend Engineering
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
-### 🎮 Game Development
-<div align="center">
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Game Design](https://img.shields.io/badge/Game_Design-8E44AD?style=for-the-badge)
-
-</div>
-
-### 💻 Programming & Scripting
+## 🤖 AI & Data
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analytics-4CAF50?style=for-the-badge)
+
+</div>
+
+## 💻 Programming & Engineering Tools
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
-
-### 🧰 Tools & Platforms
-<div align="center">
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 **What Makes Me Different**
+# 🚀 Engineering Philosophy
 
-- 🔁 Game dev mindset يساعدني أفهم **logic flows & attack paths**
-- 🧩 Strong problem solving from building game systems
-- 🟥 Able to simulate attacker behavior creatively
-- 🎮 Comfortable with complex systems & debugging
-
----
-
-## 📊 **GitHub Statistics**
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farouqshaheen&theme=tokyonight&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
-
-</div>
+- 🔹 Build scalable & maintainable architectures  
+- 🔹 Engineer intuitive user experiences  
+- 🔹 Use AI to enhance real-world applications  
+- 🔹 Focus on performance, structure & clean code  
+- 🔹 Continuous learning & system thinking  
 
 ---
 
-<div align="center">
-  
-### 🚀 **Open to Cyber Security Internships | Red Team | Game Projects**
-### 📧 **Let’s build or break things (ethically 😄)**
+# 📊 GitHub Insights
 
-**"Learn how systems work by building them… then break them to secure them."**
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hasanAlmnla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanAlmnla&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 What I’m Building Now
+
+- 📱 Advanced Flutter Applications  
+- 🤖 AI-powered smart tools  
+- 🌐 Interactive Frontend Interfaces  
+- 📊 Data-driven mini projects  
+
+---
+
+<div align="center">
+
+### 🚀 Open to Collaborations | Internships | Innovative Projects  
+
+### ✨ "I transform complex ideas into intelligent, scalable digital realities."
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=110&section=footer"/>
 </div>
-
